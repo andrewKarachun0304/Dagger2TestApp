@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.andrewkarachun0304.dagger2testapp",
+  "variantName": "debug",
+  "elements": []
+}

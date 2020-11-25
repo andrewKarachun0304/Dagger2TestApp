@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/peopleListFragment">
+
+    <fragment
+        android:id="@+id/peopleListFragment"
+        android:name="com.andrewkarachun0304.dagger2testapp.ui.PeopleListFragment"
+        android:label="fragment_people_list"
+        tools:layout="@layout/fragment_people_list" >
+        <action
+            android:id="@+id/open_addPeopleList_action"
+            app:destination="@id/addPeopleFragment" />
+        <action
+            android:id="@+id/open_updatePeopleFragment_action"
+            app:destination="@id/updatePeopleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addPeopleFragment"
+        android:name="com.andrewkarachun0304.dagger2testapp.ui.AddPeopleFragment"
+        android:label="fragment_add_people"
+        tools:layout="@layout/fragment_add_people" />
+    <fragment
+        android:id="@+id/updatePeopleFragment"
+        android:name="com.andrewkarachun0304.dagger2testapp.ui.UpdatePeopleFragment"
+        android:label="fragment_update_people"
+        tools:layout="@layout/fragment_update_people" />
+</navigation>

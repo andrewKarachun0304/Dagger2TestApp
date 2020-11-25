@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dagger2TestApp</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_age">Enter age</string>
+    <string name="add">Add</string>
+    <string name="desc">desc</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="update_name">Update name</string>
+    <string name="update_age">Update age</string>
+</resources>

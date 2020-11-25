@@ -1,0 +1,26 @@
+com/andrewkarachun0304/dagger2testapp/di/module/DataBaseModule_ProvidePeopleDaoFactory.java
+ com.andrewkarachun0304.dagger2testapp.di.module.DataBaseModule_ProvidePeopleDaoFactory
+com/andrewkarachun0304/dagger2testapp/ui/UpdatePeopleFragment_MembersInjector.java
+ com.andrewkarachun0304.dagger2testapp.ui.UpdatePeopleFragment_MembersInjector
+com/andrewkarachun0304/dagger2testapp/ui/PeopleListFragment_MembersInjector.java
+ com.andrewkarachun0304.dagger2testapp.ui.PeopleListFragment_MembersInjector
+com/andrewkarachun0304/dagger2testapp/BuildConfig.java
+ com.andrewkarachun0304.dagger2testapp.BuildConfig
+com/andrewkarachun0304/dagger2testapp/database/dao/PeopleDao_Impl.java
+ com.andrewkarachun0304.dagger2testapp.database.dao.PeopleDao_Impl
+ com.andrewkarachun0304.dagger2testapp.database.dao.PeopleDao_Impl$1
+ com.andrewkarachun0304.dagger2testapp.database.dao.PeopleDao_Impl$2
+ com.andrewkarachun0304.dagger2testapp.database.dao.PeopleDao_Impl$3
+ com.andrewkarachun0304.dagger2testapp.database.dao.PeopleDao_Impl$4
+ com.andrewkarachun0304.dagger2testapp.database.dao.PeopleDao_Impl$5
+com/andrewkarachun0304/dagger2testapp/di/components/DaggerAppComponent.java
+ com.andrewkarachun0304.dagger2testapp.di.components.DaggerAppComponent
+ com.andrewkarachun0304.dagger2testapp.di.components.DaggerAppComponent$1
+ com.andrewkarachun0304.dagger2testapp.di.components.DaggerAppComponent$Builder
+com/andrewkarachun0304/dagger2testapp/di/module/DataBaseModule_ProvideDataBaseFactory.java
+ com.andrewkarachun0304.dagger2testapp.di.module.DataBaseModule_ProvideDataBaseFactory
+com/andrewkarachun0304/dagger2testapp/database/AppDataBase_Impl.java
+ com.andrewkarachun0304.dagger2testapp.database.AppDataBase_Impl
+ com.andrewkarachun0304.dagger2testapp.database.AppDataBase_Impl$1
+com/andrewkarachun0304/dagger2testapp/ui/AddPeopleFragment_MembersInjector.java
+ com.andrewkarachun0304.dagger2testapp.ui.AddPeopleFragment_MembersInjector
